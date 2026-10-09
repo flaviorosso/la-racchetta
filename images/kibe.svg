@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520">
+  <defs>
+    <radialGradient id="g2" cx="50%" cy="35%" r="60%">
+      <stop offset="0%" stop-color="#ffe7a6"/>
+      <stop offset="25%" stop-color="#f8bf54"/>
+      <stop offset="70%" stop-color="#d97c1e"/>
+      <stop offset="100%" stop-color="#9f4d14"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="520" fill="#f5eee8"/>
+  <g transform="translate(50 25)">
+    <g transform="translate(80 70) rotate(-8 180 170)">
+      <circle cx="180" cy="170" r="150" fill="url(#g2)" stroke="#b75b1d" stroke-width="15"/>
+      <circle cx="180" cy="170" r="112" fill="#f8d988" opacity="0.55"/>
+      <path d="M94 160 C126 118, 188 108, 240 160 C210 220, 146 225, 94 160 Z" fill="#fdf1d9"/>
+    </g>
+    <g transform="translate(280 20) rotate(6 160 150)">
+      <circle cx="160" cy="150" r="145" fill="url(#g2)" stroke="#b75b1d" stroke-width="15"/>
+      <circle cx="160" cy="150" r="108" fill="#f8d988" opacity="0.55"/>
+      <path d="M82 142 C122 116, 192 116, 226 160 C202 202, 152 210, 101 192 C89 189, 81 170, 82 142 Z" fill="#fdf1d9"/>
+    </g>
+    <g transform="translate(470 110) rotate(-4 150 140)">
+      <circle cx="150" cy="140" r="138" fill="url(#g2)" stroke="#b75b1d" stroke-width="15"/>
+      <circle cx="150" cy="140" r="102" fill="#f8d988" opacity="0.55"/>
+      <path d="M85 134 C122 110, 182 108, 212 150 C189 192, 157 202, 112 188 C95 183, 84 165, 85 134 Z" fill="#fdf1d9"/>
+    </g>
+  </g>
+</svg>
